@@ -1,0 +1,16 @@
+
+.movie-details {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+.movie-details img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.movie-details p {
+  margin-top: 1rem;
+}
